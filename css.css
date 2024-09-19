@@ -1,0 +1,13 @@
+body{
+    background: url(../bit/img/img3.jpg) lightgoldenrodyellow;
+}
+.bold{
+font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color:darkgoldenrod;
+    font-size: 2rem;
+}
